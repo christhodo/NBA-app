@@ -1,0 +1,18 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "Luka Doncic",
+      "number": "77",
+      "team": "Dallas Mavericks",
+      "position": "Point Guard"
+    },
+    {
+      "id": "h6SYO5a",
+      "name": "Michael Jordan",
+      "number": "23",
+      "team": "Chicago Bulls",
+      "position": "Shooting Guard"
+    }
+  ]
+}
